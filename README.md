@@ -15,7 +15,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lynxdevv&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lynxdevv&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lynxdevv&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lynxdevv&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lynxdevv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
