@@ -6,7 +6,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-🔭 I’m currently working on CalDa<br><br>🌱 I’m currently learning Python, ReactJS<br><br>🤝 I’m looking for free virtual servers for Comet Development<br><br>👨‍💻 All of my projects are available at https://lynxdev.tk<br><br>📝 I regularly write articles on https://www.ktechy.tk<br><br>💬 Ask me about JavaScript, TypeScript, HTML & CSS, etc<br><br>📫 How to reach me karthikeyan19e@gmail.com<br><br>⚡ Fun fact Dead skin cells are a main ingredient in household dust
+🔭 I’m currently working on CalDa<br><br>🌱 I’m currently learning Python, ReactJS<br><br>🤝 I’m looking for free virtual servers for Comet Development<br><br>👨‍💻 All of my projects are available at https://lynxdev.tk<br><br>📝 I regularly write articles on https://www.ktechy.eu.org<br><br>💬 Ask me about JavaScript, TypeScript, HTML & CSS, etc<br><br>📫 How to reach me karthikeyan19e@gmail.com<br><br>⚡ Fun fact Dead skin cells are a main ingredient in household dust
 
 
 ## 🌐 Socials:
